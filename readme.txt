@@ -4,3 +4,4 @@ git has a amutable index calledstage.
 git tracks chagnes of files.
 can i help u?
 creating a new branch is quick and simple.
+add merge.
